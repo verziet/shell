@@ -1,5 +1,7 @@
+import "root:/modules/bar"
+
 import Quickshell
 
 ShellRoot {
-	PanelWindow {}
+	Bar {}
 }
